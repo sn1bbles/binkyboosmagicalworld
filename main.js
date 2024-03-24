@@ -7,8 +7,8 @@ let lives = 3
 let score = 0
 // Een van mijn belangrijkste bronnen voor dit project was mijn broer Sam Whitehead. Hij studeert computer sciences en heeft met kleine dingen geholpen
 // Audiobestanden initialiseren
-const smash = new Audio('/assets/smash.mp3')
-const smashmoan = new Audio('/assets/smash-moan.mp3')
+const smash = new Audio('assets/smash.mp3')
+const smashmoan = new Audio('assets/smash-moan.mp3')
 
 // Functie om een hart (leven) te verwijderen
 function removeHeart() {
