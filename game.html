@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"> <!-- Externe CSS-stijlen -->
+    <title>Binkyboo's magical world</title>
+</head>
+<body>
+    <audio id="backgroundMusic" src="assets/background-music.mp3" autoplay loop></audio> <!-- Achtergrondmuziek -->
+    <h1 class="score">SCORE: <span>00</span></h1> <!-- Score weergeven -->
+    <div class="hearts"> <!-- Harten voor levens -->
+        <img src="assets/heart.png" alt="First heart">
+        <img src="assets/heart.png" alt="First heart">
+        <img src="assets/heart.png" alt="First heart">
+    </div>
+    <div class="board"> <!-- Speelbord met gaten -->
+        <!--https://www.geeksforgeeks.org/whack-a-mole-game-using-html-css-and-javascript/-->
+        <div class="hole"></div>
+        <div class="hole"></div>
+        <div class="hole"></div>
+        <div class="hole"></div>
+        <div class="hole"></div>
+        <div class="hole"></div>
+        <div class="hole"></div>
+        <div class="hole"></div>
+        <div class="hole"></div>
+    </div>
+    <div class="cursor"></div> <!-- Aangepaste cursor -->
+
+    <script src="main.js"></script> <!-- JavaScript-bestand -->
+</body>
+</html>

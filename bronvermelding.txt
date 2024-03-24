@@ -1,0 +1,26 @@
+Al mijn bronnen in een txt bestand
+
+Code
+
+Wack-a-mole idee: https://www.geeksforgeeks.org/whack-a-mole-game-using-html-css-and-javascript/
+Cursor image idee: https://www.google.com/search?sca_esv=bc11e83389bb529e&rlz=1C5CHFA_enNL1072NL1074&sxsrf=ACQVn09a-TrDnkePf6RxaiItMzs-KGFZcg:1711290879884&q=how+to+change+cursor+style+in+css&tbm=vid&source=lnms&prmd=vinbmtz&sa=X&ved=2ahUKEwiOq4Koj42FAxXPhP0HHc8kALYQ0pQJegQIFBAB&biw=1710&bih=896&dpr=2#fpstate=ive&vld=cid:3e82130d,vid:rfpRZ2t_BrQ,st:0
+
+Een van mijn belangrijkste bronnen voor dit project was mijn broer Sam Whitehead. Hij studeert computer sciences en heeft met kleine dingen geholpen
+Vooral bij het uitvogelen van de Animatie. Dat deel duurde lang om te laten werken.
+
+Images
+
+Al de afbeeldingen komen van https://copilot.microsoft.com/ (AI)
+Ik heb met AI heb ik met bepaalde prompts gevonden waarvoor ik zocht. 
+Ik had sinds het begin een duidelijk idee over hoe de spel er zou uitzien.
+En de AI heeft dat wel goed afgebeeld.
+
+
+Audio
+
+Al binky's geluiden heb ik zelf opgenomen op mijn laptop.
+
+Menu achtergrond muziek: https://www.youtube.com/watch?v=CEomyrZCOp4
+Game achtergrond muziek: https://www.chosic.com/download-audio/29238/
+Fleshy hammer sound: https://www.youtube.com/watch?v=tVoL_tKLsOw
+
